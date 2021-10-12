@@ -14,4 +14,6 @@ Job seeking...
 Interested: Front-end, Fullstack
 
 :blue_book:
-Skillset: JavaScript, TypeScript, Python, Java
+Skillset: JavaScript, TypeScript, Python, Java<br>
+Mandarin, English, and a little bit Japanese:shushing_face:	
+
