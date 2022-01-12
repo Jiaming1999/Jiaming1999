@@ -8,6 +8,7 @@ Hello! This is Jiaming from U of I.
 Used to work on ScribeAR in the University.
 
 :coat:	
+Teaching Assistant for CS 126 Spring 2022 UIUC
 Job seeking...
 
 :desktop_computer:	
