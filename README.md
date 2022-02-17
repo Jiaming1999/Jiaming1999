@@ -9,7 +9,7 @@ Used to work on ScribeAR in the University.
 
 :coat:	
 Teaching Assistant for CS 126 Spring 2022 UIUC<br>
-:f082:
+&#f082;
 Incoming Meta Frontend Engineer Intern Summer 2022
 
 :desktop_computer:	
