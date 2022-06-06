@@ -1,7 +1,7 @@
 # Jiaming Zhang:japanese_ogre:
 Hello! This is Jiaming from U of I.
 
-Incoming Meta Frontend Engineer Intern Summer 2022
+Meta Frontend Engineer Intern Summer 2022
 
 :technologist: Bachelor: University of Illinios Urbana-Champaign Math & Comp Sci
 
