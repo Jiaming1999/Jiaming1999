@@ -11,6 +11,7 @@ Used to work on ScribeAR in the University.
 
 :coat:	
 Teaching Assistant for CS 126 Spring 2022 UIUC<br>
+Actively looking for a full time job for spring 2023
 
 :desktop_computer:	
 Interested: Front-end, Fullstack
