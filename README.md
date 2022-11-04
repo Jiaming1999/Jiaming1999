@@ -10,7 +10,7 @@ Meta Frontend Engineer Intern Summer 2022
 Used to work on ScribeAR in the University.
 
 :coat:	
-Teaching Assistant for CS 126 Spring 2022 UIUC<br>
+Teaching Assistant for CS 126 Spring 2022 UIUC & CS 222 Fall 2022 UIUC<br>
 Actively looking for a full time job for spring 2023
 
 :desktop_computer:	
