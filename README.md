@@ -1,5 +1,7 @@
 # Jiaming Zhang:japanese_ogre:
-Hello! This is Jiaming from U of I.
+Hello! This is Jiaming.
+
+Active Software Engineer at Memverge.
 
 Meta Frontend Engineer Intern Summer 2022
 
@@ -13,10 +15,7 @@ Used to work on ScribeAR in the University.
 Teaching Assistant for CS 126 Spring 2022 UIUC & CS 222 Fall 2022 UIUC<br>
 Actively looking for a full time job for spring 2023
 
-:desktop_computer:	
-Interested: Front-end, Fullstack
-
 :blue_book:
-Skillset: JavaScript, TypeScript, Python, Java<br>
+Skillset: JavaScript, TypeScript, C++/C<br>
 Mandarin, English, and a little bit Japanese:shushing_face:	
 
